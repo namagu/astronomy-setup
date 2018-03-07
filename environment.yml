@@ -1,0 +1,7 @@
+name: ffitry 
+dependencies:
+  - python=2.7
+  - astropy
+  - numpy==1.11.1
+  - scipy==0.18.1
+  - matplotlib==1.5.3
