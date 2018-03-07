@@ -8,8 +8,11 @@ I'm making this in case I need to do it again on another machine sometime in the
 * ds9
 * conda
 
-## The things I'm installing
+## The things I'm installing:
 * astrometry.net
 * cfitsio
 * fitsh
 * ...
+
+## The Git repo I'm cloning:
+* [FFIToolsPub](https://github.com/chelseah/FFIToolsPub)
