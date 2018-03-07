@@ -1,5 +1,5 @@
 # astronomy-setup
-Setting up my Mac for astronomy coding
+Setting up my Mac for astronomy coding, specifically to run Chelsea Huang's [FFIToolsPub](https://github.com/chelseah/FFIToolsPub)
 
 I'm making this in case I need to do it again on another machine.
 
